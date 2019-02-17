@@ -1,3 +1,3 @@
-# Coursera - 1. Java Programming- Solving problems with Software
+# Coursera - 2. Java Programming- Solving problems with Software
 
 All about Coursera projects/assignments
